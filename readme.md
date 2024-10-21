@@ -7,7 +7,7 @@ as a backup for the wallet. \
 The program is designed to search for a lost or forgotten wallet with preserved cryptocurrency
 
 
-![preview](/assets/video.gif)
+![preview](/assets/seedgen1.png)
 
 
     <p align="center"> [DOWNLOAD](../../releases)
@@ -49,7 +49,7 @@ But know that luck is key here.
 # Generate a single seed phrase
 You can also generate a single seed phrase for your wallet, to do this in the menu press the 1 key and you will get a single 12 word seed phrase displayed:
 
-![generated_seed](/assets/generatede_seed.png)
+![generated_seed](/assets/generated_seed.png)
 
 # Source Code
 It is an open source program written in C++. Anyone can study the code and compile the program themselves.
