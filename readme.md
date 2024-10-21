@@ -7,7 +7,7 @@ as a backup for the wallet. \
 The program is designed to search for a lost or forgotten wallet with preserved cryptocurrency
 
 
-![preview](/assets/preview.png)
+![preview](/assets/video.gif)
 
 
     <p align="center"> [DOWNLOAD](../../releases)
